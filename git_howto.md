@@ -8,9 +8,10 @@ git init
 ```sh
 git add
 ```
-
+Создание версии с описанием:
+```sh
 git commit -m
-
+```
 git log
 
 git log --oneline
