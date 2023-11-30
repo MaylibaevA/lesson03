@@ -12,8 +12,10 @@ git add
 ```sh
 git commit -m
 ```
+Посмотреть список версий:
+```sh
 git log
-
+```
 git log --oneline
 
 git chechout
