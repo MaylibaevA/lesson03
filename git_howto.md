@@ -20,4 +20,7 @@ git log
 ```sh
 git log --oneline
 ```
-git chechout
+Просмотр версии:
+```sh
+git chechout <16 ричный код версии>
+```
