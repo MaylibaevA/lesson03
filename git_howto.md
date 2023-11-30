@@ -16,6 +16,8 @@ git commit -m
 ```sh
 git log
 ```
+Короткая версия списка версий:
+```sh
 git log --oneline
-
+```
 git chechout
